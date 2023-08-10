@@ -6,8 +6,8 @@ Currently in my Junior year in University
 
 Aside from computer science I like to:
 
-Model in Blender
-Play Games
-Read
+--Model in Blender
+--Play Games
+--Read
 
 Nothing much to see yet but there will be soon :)
